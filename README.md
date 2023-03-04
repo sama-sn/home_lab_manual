@@ -44,6 +44,9 @@ Using an example. It contains:
 - Use the `pcap` file from the packet capture. Learn what vulnerabilities the attacker used for exploitation.
 - Also, you can perform memory analysis using `vmem` files (you can see them when you take a snapshot of the machine). These files can help if you consider a scenario where the SOC team finds abnormal activity and takes a memory dump of that system.
 
+### Phase2 summary:
+Plan: Probably DNS manipulation using dnscat2 or bloodhound poc on the active directory system present in the LAN network.
+
 ### Detailed steps:
 
 ## [Note]
