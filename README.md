@@ -1,7 +1,7 @@
 (Working on it - April 22, 2023. May add docker containers)
 ## Project overview:
 ### Intro:
-This project aims to provide a manual/guide to creating a home lab. This home lab helps one to create an enterprise network, exploit it, and learn more from it. These instructions are provided based on what I could take away from Mr. Jeff McJunkin's [kickass home lab](http://bit.ly/kickasslab)
+The project aims to provide a manual/guide to creating a home lab that helps to create an enterprise network, exploit it, and learn more from it. These instructions are provided based on what I could take away from Mr. Jeff McJunkin's [kickass home lab](http://bit.ly/kickasslab)
 ### Learning mode
 Using an example. It contains:
 - Details on how to set up the network with a web server. 
